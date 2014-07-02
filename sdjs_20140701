@@ -14,4 +14,10 @@ collision: .onHit(“item”, function() { });
 
 D3.js
 
-Processing ?
+http://processing.org
+
+D3 likes JSON
+Origin is upper left, draws down & right.
+
+Data visualization 
+http://selection.datavisualization.ch
