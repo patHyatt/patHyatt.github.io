@@ -1,0 +1,17 @@
+JS meetup 7/1/2014:
+
+crafty.js
+
+-> craftyjs.com
+
+Crafty.e(“1, 2, 3, 4”) constructor……
+ 
+querying: comma denotes AND, i.e. Crafty(“Love Hate”) vs Crafty(“Love, Hate”) 
+
+collision: .onHit(“item”, function() { });
+
+—————————————————————
+
+D3.js
+
+Processing ?
