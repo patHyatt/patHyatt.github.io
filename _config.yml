@@ -1,0 +1,7 @@
+title: "patrickhyatt.com"
+author: "Patrick Hyatt"
+author_email: "patrick.hyatt@gmail.com"
+url: "http://www.patrickhyatt.com"
+
+
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, node_modules]

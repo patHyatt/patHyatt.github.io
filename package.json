@@ -1,0 +1,23 @@
+{
+  "name": "pathyatt.github.io",
+  "version": "1.0.0",
+  "description": "patHyatt.github.io ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patHyatt/patHyatt.github.io.git"
+  },
+  "author": "Patrick Hyatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patHyatt/patHyatt.github.io/issues"
+  },
+  "homepage": "https://github.com/patHyatt/patHyatt.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2"
+  }
+}
