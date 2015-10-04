@@ -17,31 +17,30 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
     <header>
       <h3>
-        <a href="{{ site.url }}">
-          <i title="code" class="fa fa-code fa-3x"></i>. <i title="games" class="fa fa-gamepad fa-3x"></i>.<i title="love" class="fa fa-heart fa-3x"></i>.
+        <a href="/">
+          <i title="code" class="fa fa-code fa-3x code"></i>. 
+          <i title="games" class="fa fa-gamepad fa-3x games"></i>.
+          <i title="love" class="fa fa-heart fa-3x love"></i>.
         </a>
         </h3>
-      <hr />
     </header>
-    <article>
-      <div class='container'>
-        <div class='row'>
-          <div class='col-xs-10'>{{ content }}</div>
-          <div class='col-xs-2'>
-            {% for post in site.posts %}
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            {% endfor %}
-          </div>
+    <hr />
+    {{ content }}
+    <hr />
+    <footer>
+      <div class="container">
+        <div class="col-xs-6 text-left">
+          You're awesome!
+        </div>
+        <div class="col-xs-6 text-right">
+          <i class="fa fa-copyright"></i> 2015 {{ site.name }}
         </div>
       </div>
-    </article>
-    <footer>
-      <hr />
-      Copyright <i class="fa fa-copyright"></i> {{ site.author }} - You're awesome!
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>

@@ -1,7 +1,18 @@
 title: "patrickhyatt.com"
-author: "Patrick Hyatt"
-author_email: "patrick.hyatt@gmail.com"
 url: "http://www.patrickhyatt.com"
 
+#author: 
+name: "Patrick Hyatt"
+email: "patrick.hyatt@gmail.com"
+twitter: "https://www.twitter.com/patrickHyatt"
+stackoverflow: "https://stackoverflow.com/users/36/pat"
+github: "https://www.github.com/patHyatt"
+linkedin: "https://www.linkedin.com/in/patrickhyatt"
+
+sass:
+  style: compressed
+
+kramdown:
+  input: GFM
 
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, node_modules]
