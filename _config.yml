@@ -15,4 +15,4 @@ sass:
 kramdown:
   input: GFM
 
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, node_modules]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, node_modules, Gemfile, Gemfile.lock]
