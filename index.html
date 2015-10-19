@@ -3,11 +3,11 @@ title: Home
 layout: "default"
 ---
 <div class='container'>
-	<div class='row'>
-	  <div class='col-xs-12'>
-	    {% for post in site.posts %}
-	      <a href="{{ post.url }}"><span class="mark">{{ post.date || date_to_long_string }}</span> - {{ post.title }}</a>
-	    {% endfor %}
-	  </div>
-	</div>
+    <div class='col-xs-12'>
+    	{% for post in site.posts %}
+        <div class='row'>
+            <a href="{{ post.url }}"><span class="mark">{{ post.date || date_to_long_string }}</span> - {{ post.title }}</a> 
+        </div>
+        {% endfor %}
+    </div>
 </div>
