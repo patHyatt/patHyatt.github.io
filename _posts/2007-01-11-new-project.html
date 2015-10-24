@@ -1,0 +1,13 @@
+---
+layout: post
+title: New Project
+date: '2007-01-11T20:33:00.000-05:00'
+author: Pat Hyatt
+tags:
+- ASP.Net
+modified_time: '2007-01-11T20:45:06.249-05:00'
+blogger_id: tag:blogger.com,1999:blog-1130780247100205939.post-7712896120588930971
+blogger_orig_url: http://patpack.blogspot.com/2007/01/new-project.html
+---
+
+Recently, I have been in the process of transitioning out of the Configuration Managment to a full blown developer position. My newest project is converting a severely outdated ASP web application to ASP.Net 2.0. <br /><br />What was once done with Visual Basic 6.0 and dll registration, numerous registry entries and a whole slew of other older technologies is now done with at least 1/4 of the code, and all .Net.<br /><br />We're between releases now at my company so there is no offical schedule currently, so its mainly a discovery phase. I would consider myself intermediate to advanced at html but ASP.Net I am total novice. With that in mind I have been able to compact 5 ASP pages into one aspx page. <br /><br />GridViews and FormViews are some powerful controls. I really have been impressed with how simple it was to whip out a web application which functions near exact to what the older codebase did, without the messy attachments. <br /><br />A few problems I encountered:<br />- Using a CheckBox control against data which is not boolean. It took me a bit to figure out the entrails but some custom handling OnRowDataBound and OnRowUpdateCommand events, and tada. <br />- DropDownList : I had an issue which was mainly lack of knowledge on my part which was setting the SelectedValue property based on what the current database field is. <br />You can set the SelectedValue property in the markup <asp:DropDownList ID="myId" SelectedValue="<%# Bind("myField") %>" /> and ta da! <br /><br />And that has been about it. We're also using Microsofts shot at Ajax Controls and the associated Toolkit which looks great!
