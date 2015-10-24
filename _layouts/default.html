@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
-    <header>
+    <header class="text-center">
       <h3>
         <a href="/">
           <i title="code" class="fa fa-code fa-3x code"></i>. 
@@ -32,14 +32,12 @@
     <hr />
     {{ content }}
     <hr />
-    <footer>
-      <div class="container">
-        <div class="col-xs-6 text-left">
-          You're awesome!
-        </div>
-        <div class="col-xs-6 text-right">
-          <i class="fa fa-copyright"></i> 2015 {{ site.name }}
-        </div>
+    <footer class="text-center">
+      <div class="row">
+          <div class="col-xs-12">
+            You're awesome!
+            <i class="fa fa-copyright"></i> 2015 {{ site.name }}
+          </div>
       </div>
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
