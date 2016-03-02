@@ -1,5 +1,5 @@
 ---
-title: I paid $70 for some PJs
+title: "I paid $70 for some PJs"
 layout: "post"
 date: "2016-03-01 21:16:00 -0900"
 ---
