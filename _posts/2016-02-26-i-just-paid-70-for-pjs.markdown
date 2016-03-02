@@ -70,4 +70,3 @@ If you're in the market for some house pants or something to wear to bed, I gott
   [4hww]: http://fourhourworkweek.com/podcast/
   [1]: http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN
   [2]: http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307465357&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=papa00-20
-  
