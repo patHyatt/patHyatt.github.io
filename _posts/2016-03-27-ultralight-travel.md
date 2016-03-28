@@ -46,7 +46,7 @@ Here is a list of items I bring regardless of the trip:
 <ul>
 	<li>USB phone charger - Phone is generally the camera and internet device. No brainer here eh?</li>
 	<li><a href="http://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.</li>
-	<li><a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. ***Love*** this thing.</li>
+	<li><a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. <b>Love</b> this thing.</li>
 	<li>V-neck sweater - Able to throw on a collard shirt for a nicer look, or for warmth. Couple with above for more warmth and element protection.</li>
 	<li>Tea bags - Can generally grab hot water from any store/vendor for free, tea is an easy way to warm up and avoid costly and crappy drinks.</li>
 	<li><a href="http://www.amazon.com/gp/product/B004RRKAJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RRKAJS&linkCode=as2&tag=papa00-20&linkId=LNM3S2O7ZMNHKL73" target="_blank">16oz Klean Kanteen</a> - Keeps hots hot, colds cold and is a respectable size and easy to clean with the wide mouth, only the loop lid for travel</li>
@@ -75,12 +75,12 @@ Toiletries:
 	<li>Container of ibuprofen (Headache, sprain, fever, super useful)</li>
 </ul>
 
-Clothing wise my rule of thumb is # of days you're away divided by 2. With the cap on this formula being 8 days of awayness/vacation/business, yielding 4 days of clothng.
-So if I'm going away for 5 days, 5/2 = 2.5, so I'd likely bring 3 days of clothing.
-If I'm going away for 18 days, I'd bring 4 days of clothing.
+Clothing wise my rule of thumb is # of days you're away divided by 2. With the cap on this formula being 8 days of awayness/vacation/business, yielding 4 days of clothing.  
+So if I'm going away for 5 days, 5/2 = 2.5, so I'd likely bring 3 days of clothing.  
+If I'm going away for 18 days, I'd bring 4 days of clothing.  
 
-With your Scruba you can wash every 2-3 days and be absolutely fine.
-Shorts/jeans are reusable so you can wear a pair of those guys 1-3 days easily before washing.
+With your Scruba you can wash every 2-3 days and be absolutely fine.  
+Shorts/jeans are reusable so you can wear a pair of those guys 1-3 days easily before washing.  
 
 Of course if you're going to special events the need to carry special shoes/outfits is a thing. Try to reduce these garments to the bare minimum.
 My best one bag trip to date had 1 wedding, 1 day of outdoor activities (hiking), 4 days out of the country, and a high school graduation. In total we were gone 10 days.
