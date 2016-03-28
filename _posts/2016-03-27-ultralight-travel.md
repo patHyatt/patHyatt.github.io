@@ -42,6 +42,7 @@ On top of this, with a single bag, I can put it in an overhead OR the floor (air
 Nothing really is free however, your cost here is a little more thought into what you absolutely need and what you can reuse. But mental cost up front pays huge. I promise.
 
 Here is a list of items I bring regardless of the trip:
+
 - USB phone charger - Phone is generally the camera and internet device. No brainer here eh?
 - <a href="http://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.
 - <a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. ***Love*** this thing.
@@ -56,10 +57,12 @@ Here is a list of items I bring regardless of the trip:
 The last item there is a requirement, it changes the game for packing and keeping things compact.
 
 Optional items:
+
 - Paperback book - Ebooks are great but the electricity requirement can put you in a bind depending on where you are heading. No one steals paper books also.
 - Laptop - If I'm going to be working while away, must have. OR for trips where we're going to be doing research while there.
 
 Toiletries:
+
 - Baking soda (doubles as tooth paste and deodorant, if you're camping you can also use it for sunburn treatment)
 - Toothbrush
 - Floss
@@ -75,7 +78,8 @@ Shorts/jeans are reusable so you can wear a pair of those guys 1-3 days easily b
 
 Of course if you're going to special events the need to carry special shoes/outfits is a thing. Try to reduce these garments to the bare minimum.
 My best one bag trip to date had 1 wedding, 1 day of outdoor activities (hiking), 4 days out of the country, and a high school graduation. In total we were gone 10 days.
-Breaking this trip down clothing wise I had
+Breaking this trip down clothing wise I had  
+
 - 4 pair - socks (3 regular, 1 dress)
 - 4 shirts - (1 collared/flannel, 2 t-shirts, 1 dress)
 - 3 pairs of shoes (dress, hiking/athletic, casual)
