@@ -43,31 +43,37 @@ Nothing really is free however, your cost here is a little more thought into wha
 
 Here is a list of items I bring regardless of the trip:
 
-	- USB phone charger - Phone is generally the camera and internet device. No brainer here eh?
-	- <a href="http://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.
-	- <a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. ***Love*** this thing.
-	- V-neck sweater - Able to throw on a collard shirt for a nicer look, or for warmth. Couple with above for more warmth and element protection.
-	- Tea bags - Can generally grab hot water from any store/vendor for free, tea is an easy way to warm up and avoid costly and crappy drinks.
-	- <a href="http://www.amazon.com/gp/product/B004RRKAJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RRKAJS&linkCode=as2&tag=papa00-20&linkId=LNM3S2O7ZMNHKL73" target="_blank">16oz Klean Kanteen</a> - Keeps hots hot, colds cold and is a respectable size and easy to clean with the wide mouth, only the loop lid for travel
-	- First aid kit - Really generic, a few bandaids, cut ointments, bare minimum here
-	- <a href="http://www.amazon.com/gp/product/B00CEOII9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CEOII9K&linkCode=as2&tag=papa00-20&linkId=E44TEVOYLXCG6PI3" target="_blank">Cree Mini LED Flashlight</a> - Great for if you drop something on the airplane/bus floor or can't find your <a href="https://www.airbnb.com/c/ssoto4?s=8" target="_blank">Airbnb's</a> address sign.
-	- <a href="http://www.amazon.com/gp/product/B00BUI7HFC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUI7HFC&linkCode=as2&tag=papa00-20&linkId=S6S6RT2O3CTKL4TY" target="_blank">Scruba</a> - it's a small wash bag that has bumps in it for generating friction. Doubles as a <a href="https://en.wikipedia.org/wiki/Dry_bag" target="_blank">dry bag</a>
-	- <a href="http://www.amazon.com/gp/product/B00XHDM6HW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XHDM6HW&linkCode=as2&tag=papa00-20&linkId=PLP5POJZAAZSOIEY" target="_blank">Space Bag</a> - Vacuum seal type bags for clothing. You sit/roll/squash the air out. This makes your clothing as compact as possible.
+<ul>
+	<li>USB phone charger - Phone is generally the camera and internet device. No brainer here eh?</li>
+	<li><a href="http://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.</li>
+	<li><a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. ***Love*** this thing.</li>
+	<li>V-neck sweater - Able to throw on a collard shirt for a nicer look, or for warmth. Couple with above for more warmth and element protection.</li>
+	<li>Tea bags - Can generally grab hot water from any store/vendor for free, tea is an easy way to warm up and avoid costly and crappy drinks.</li>
+	<li><a href="http://www.amazon.com/gp/product/B004RRKAJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RRKAJS&linkCode=as2&tag=papa00-20&linkId=LNM3S2O7ZMNHKL73" target="_blank">16oz Klean Kanteen</a> - Keeps hots hot, colds cold and is a respectable size and easy to clean with the wide mouth, only the loop lid for travel</li>
+	<li>First aid kit - Really generic, a few bandaids, cut ointments, bare minimum here</li>
+	<li><a href="http://www.amazon.com/gp/product/B00CEOII9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CEOII9K&linkCode=as2&tag=papa00-20&linkId=E44TEVOYLXCG6PI3" target="_blank">Cree Mini LED Flashlight</a> - Great for if you drop something on the airplane/bus floor or can't find your <a href="https://www.airbnb.com/c/ssoto4?s=8" target="_blank">Airbnb's</a> address sign.</li>
+	<li><a href="http://www.amazon.com/gp/product/B00BUI7HFC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUI7HFC&linkCode=as2&tag=papa00-20&linkId=S6S6RT2O3CTKL4TY" target="_blank">Scruba</a> - it's a small wash bag that has bumps in it for generating friction. Doubles as a <a href="https://en.wikipedia.org/wiki/Dry_bag" target="_blank">dry bag</a></li>
+	<li><a href="http://www.amazon.com/gp/product/B00XHDM6HW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XHDM6HW&linkCode=as2&tag=papa00-20&linkId=PLP5POJZAAZSOIEY" target="_blank">Space Bag</a> - Vacuum seal type bags for clothing. You sit/roll/squash the air out. This makes your clothing as compact as possible.</li>
+</ul>
 
 The last item there is a requirement, it changes the game for packing and keeping things compact.
 
 Optional items:
 
-	- Paperback book - Ebooks are great but the electricity requirement can put you in a bind depending on where you are heading. No one steals paper books also.
-	- Laptop - If I'm going to be working while away, must have. OR for trips where we're going to be doing research while there.
+<ul>
+	<li>Paperback book - Ebooks are great but the electricity requirement can put you in a bind depending on where you are heading. No one steals paper books also.</li>
+	<li>Laptop - If I'm going to be working while away, must have. OR for trips where we're going to be doing research while there.</li>
+</ul>
 
 Toiletries:
 
-	- Baking soda (doubles as tooth paste and deodorant, if you're camping you can also use it for sunburn treatment)
-	- Toothbrush
-	- Floss
-	- Small Dr. Bronners bottle (Multiple uses, mainly laundry detergent)
-	- Container of ibuprofen (Headache, sprain, fever, super useful)
+<ul>
+	<li>Baking soda (doubles as tooth paste and deodorant, if you're camping you can also use it for sunburn treatment)</li>
+	<li>Toothbrush</li>
+	<li>Floss</li>
+	<li>Small Dr. Bronners bottle (Multiple uses, mainly laundry detergent)</li>
+	<li>Container of ibuprofen (Headache, sprain, fever, super useful)</li>
+</ul>
 
 Clothing wise my rule of thumb is # of days you're away divided by 2. With the cap on this formula being 8 days of awayness/vacation/business, yielding 4 days of clothng.
 So if I'm going away for 5 days, 5/2 = 2.5, so I'd likely bring 3 days of clothing.
@@ -78,15 +84,17 @@ Shorts/jeans are reusable so you can wear a pair of those guys 1-3 days easily b
 
 Of course if you're going to special events the need to carry special shoes/outfits is a thing. Try to reduce these garments to the bare minimum.
 My best one bag trip to date had 1 wedding, 1 day of outdoor activities (hiking), 4 days out of the country, and a high school graduation. In total we were gone 10 days.
-Breaking this trip down clothing wise I had  
+Breaking this trip down clothing wise I had:  
 
-	- 4 pair - socks (3 regular, 1 dress)
-	- 4 shirts - (1 collared/flannel, 2 t-shirts, 1 dress)
-	- 3 pairs of shoes (dress, hiking/athletic, casual)
-	- 3 pair - undies
-	- 3 bottoms - (1 shorts, 1 dress pants, 1 jeans)
-	- 1 blazer - Save the bulk here and wear it on the plane/bus/whatever
-	- 1 dress belt
+<ul>
+	<li>4 pair - socks (3 regular, 1 dress)</li>
+	<li>4 shirts - (1 collared/flannel, 2 t-shirts, 1 dress)</li>
+	<li>3 pairs of shoes (dress, hiking/athletic, casual)</li>
+	<li>3 pair - undies</li>
+	<li>3 bottoms - (1 shorts, 1 dress pants, 1 jeans)</li>
+	<li>1 blazer - Save the bulk here and wear it on the plane/bus/whatever</li>
+	<li>1 dress belt</li>
+</ul>
 
 And it was one of the best trips we've had yet. The mobility to hop off a bus, to the train station, jump on the train, throw my bag underneath the seat, grab some hot water for a tea and read was magical.
 This is a hard sell for some folks. I can't live without 5 pairs of shoes, my hair dryer, or whatever. And I get it, it is hard, but try it. It's no where near roughing it as it may sound.
