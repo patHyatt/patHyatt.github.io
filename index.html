@@ -2,12 +2,28 @@
 title: Home
 layout: "default"
 ---
-<div class='container'>
-    <div class='col-xs-4 col-xs-offset-4'>
-    	{% for post in site.posts %}
-        <div class='row'>
-            <a href="{{ post.url }}"><span class="mark">{{ post.date || date_to_long_string }}</span> - {{ post.title }}</a> 
-        </div>
-        {% endfor %}
+<div class="container">
+  	{% for post in paginator.posts %}
+      <a class="lead" href="{{ post.url }}">
+        <span>{{ post.date | date_to_string }} &raquo;</span> {{ post.title }}
+      </a>
+      {{ post.content | truncatewords:200}}
+      <br /><br />
+      <a class="mark lead" href="{{ post.url }}">Read more...</a>
+      <hr />
+      {% endfor %}
+
+    <div class="lead text-center pagination col-xs-12">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      {% else %}
+        <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+        <span class="next">Next</span>
+      {% endif %}
     </div>
 </div>
