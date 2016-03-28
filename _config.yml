@@ -1,7 +1,7 @@
 title: "patrickhyatt.com"
 url: "http://www.patrickhyatt.com"
 
-#author: 
+#author:
 name: "Patrick Hyatt"
 email: "patrick.hyatt@gmail.com"
 twitter: "https://www.twitter.com/patrickHyatt"
@@ -14,5 +14,7 @@ sass:
 
 kramdown:
   input: GFM
+
+paginate: 5
 
 exclude: [README.markdown, package.json, node_modules, Gemfile, Gemfile.lock]
