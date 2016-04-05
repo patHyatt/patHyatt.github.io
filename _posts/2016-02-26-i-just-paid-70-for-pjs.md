@@ -19,10 +19,10 @@ Unpack and notice the hole is no longer a hole, but something that appears to be
 To the trash they go. Pantless (PJ wise) Pat is in the building. 
 
 February 18, 2016
-Listening to [Tim Ferriss' postcast][4hww] I hear an ad for [meundies] and as I recall the description, "softer than cotton". Interesting, lets check this out.
+Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank">Tim Ferriss' postcast</a> I hear an ad for <a href="http://fbuy.me/dBlGv" target="_blank">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
 Visit the site, and as a referred shopper, get 20% off, now you're talking my language. Check out what they have to offer, and notice some PJ pants and undies. Quickly pick some colors I find fitting, add to cart and see the total. 
 
-[![The 4-Hour Workweek][2]{: .image-responsive .center-block }][1]
+<a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN" target="_blank"><img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307465357&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=papa00-20" alt="four hour work week book" /></a>
 <small>
 *take a peek at Tim's book "The 4-Hour Workweek" below, some interesting productivity and life excersizes in there  
 </small>
@@ -41,9 +41,9 @@ Altogether the damage to the credit card was $77.76. $90 original - $18 discount
 It was a Thursday that I purchased these, shipping info said I'd get them Monday. No big deal...
 
 February 22, 2016
-Fedex (via the USPS) drop off a black pouch from [meundies] about the size of a pack of beef jerky or a grab bag of potato chips. Minimal design/packaging, like how I travel. I dig it. Check it out below:
+Fedex (via the USPS) drop off a black pouch from <a href="http://fbuy.me/dBlGv" target="_blank">meundies</a> about the size of a pack of beef jerky or a grab bag of potato chips. Minimal design/packaging, like how I travel. I dig it. Check it out below:
 
-[![Minimal packaging][thmb_packaging]{: .image-responsive .center-block }][packaging]
+<a href="/assets/img/2016/02/26/packaging.jpg" target="_blank"><img src="/assets/img/2016/02/26/thmb_packaging.jpg" alt="picture of meundies packaging" /></a>
 
 Crack the bag open, and there inside some of the softest feeling undies and PJ bottoms I've felt yet. Since it was midday, I had to wait until the evening to try out the undies, but the pants were an immediate fix.
 
@@ -65,11 +65,3 @@ On top of this all, the pants are suitable for going outside or running some lig
 
 It's been just under a week, and I've already shaken off the sticker shock. Hell I'm even writing a post about them, while I'm wearing them.
 If you're in the market for some house pants or something to wear to bed, I gotta say, check em out. Honestly a solid pair of chill out pants.
-
-
-  [meundies]: http://fbuy.me/dBlGv
-  [4hww]: http://fourhourworkweek.com/podcast/
-  [thmb_packaging]: /assets/img/2016/02/26/thmb_packaging.jpg
-  [packaging]: /assets/img/2016/02/26/packaging.jpg
-  [1]: http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN
-  [2]: http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307465357&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=papa00-20
