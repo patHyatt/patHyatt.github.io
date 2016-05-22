@@ -1,5 +1,6 @@
 title: "patrickhyatt.com"
 url: "http://www.patrickhyatt.com"
+excerpt_separator: <!--excerpt-->
 
 #author:
 name: "Patrick Hyatt"
@@ -15,6 +16,16 @@ sass:
 
 kramdown:
   input: GFM
+
+compress_html:
+  clippings: []
+  comments: ['all']
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
 
 paginate: 5
 
