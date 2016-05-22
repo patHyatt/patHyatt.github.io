@@ -25,6 +25,8 @@ This has changed the travel game for me.
 
 Lets look at some of the **freedoms** this affords you.  
 
+<!--excerpt-->
+
 #### Freedom of time
 If you are rocking a large bag that cannot be put in the overhead, you're checking it in. Get in line and wait to talk to someone so you can check that bastard in.
 THEN, you get to your destination, rush to get off the plane, run over to the baggage area, and wait more.

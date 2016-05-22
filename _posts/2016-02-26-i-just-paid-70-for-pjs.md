@@ -2,6 +2,7 @@
 title: I paid $70 for some PJs
 layout: "post"
 date: "2016-03-01 21:16:00 -0900"
+amp_include: "<script async custom-element=\"amp-instagram\" src=\"https://cdn.ampproject.org/v0/amp-instagram-0.1.js\"></script>"
 ---
 
 Just typing out the title for this piece kind of hurts... somewhat.
@@ -18,11 +19,15 @@ Unpack and notice the hole is no longer a hole, but something that appears to be
 
 To the trash they go. Pantless (PJ wise) Pat is in the building. 
 
+<!--excerpt-->
+
 February 18, 2016
 Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank">Tim Ferriss' postcast</a> I hear an ad for <a href="http://fbuy.me/dBlGv" target="_blank">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
 Visit the site, and as a referred shopper, get 20% off, now you're talking my language. Check out what they have to offer, and notice some PJ pants and undies. Quickly pick some colors I find fitting, add to cart and see the total. 
 
-<a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN" target="_blank"><img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307465357&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=papa00-20" alt="four hour work week book" /></a>
+<a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN" target="_blank">
+<amp-img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307465357&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=papa00-20" alt="Book cover of The Four Hour Work Week" height="160" width="105"></amp-img>
+</a>
 <small>
 *take a peek at Tim's book "The 4-Hour Workweek" below, some interesting productivity and life excersizes in there  
 </small>
@@ -43,7 +48,10 @@ It was a Thursday that I purchased these, shipping info said I'd get them Monday
 February 22, 2016
 Fedex (via the USPS) drop off a black pouch from <a href="http://fbuy.me/dBlGv" target="_blank">meundies</a> about the size of a pack of beef jerky or a grab bag of potato chips. Minimal design/packaging, like how I travel. I dig it. Check it out below:
 
-<a href="/assets/img/2016/02/26/packaging.jpg" target="_blank"><img src="/assets/img/2016/02/26/thmb_packaging.jpg" alt="picture of meundies packaging" /></a>
+<a href="/assets/img/2016/02/26/packaging.jpg" target="_blank">
+	<amp-img src="/assets/img/2016/02/26/packaging.jpg" alt="Photo of meundies minimal packaging" height="267" width="200"></amp-img>
+</a>
+
 
 Crack the bag open, and there inside some of the softest feeling undies and PJ bottoms I've felt yet. Since it was midday, I had to wait until the evening to try out the undies, but the pants were an immediate fix.
 
@@ -53,12 +61,11 @@ Up top, on the thighs on either side, two deep pockets. Large enough to fit a Ne
 
 This is a fair picture of what my day is like. Just look at how relaxed and focused that guy is:
 
-<div class="center-block" style="max-width: 30%">
-<div>
-	<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/75kLONSbi_/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">@onedapperstreet morning essentials: #MeUndies Lounge Pants and ☕️// Get your pair of life changing, morning enhancing pants through the link in our bio #LetsGetComfy</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by MeUndies (@meundies) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-21T16:32:05+00:00">Sep 21, 2015 at 9:32am PDT</time></p></div></blockquote>
-	<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</div>
-</div>  
+<amp-instagram
+    data-shortcode="75kLONSbi_"
+    width="320"
+    height="392">
+</amp-instagram>
 
 <br />
 On top of this all, the pants are suitable for going outside or running some light errands in. They don't look like PJs, technically they are "lounge pants", so take what you want from that. They're just super comfortable and fitting for a desk warrior that ventures out to get the mail or grab the garbage cans.
