@@ -15,7 +15,7 @@
     {% if page.date %}
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.date | date_to_xmlschema }}",
-    "{% endif %}
+    {% endif %}
   }
 </script>
 {% else %}
