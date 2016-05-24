@@ -5,7 +5,17 @@
     "@context": "http://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ page.title }}",
-    {% if page.date %}"datePublished": "{{ page.date | date_to_xmlschema }}"{% endif %}
+    "author": "{{ site.name }}",
+    "publisher": 
+    {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}"
+    },
+    {% if page.date %}
+    "datePublished": "{{ page.date | date_to_xmlschema }},
+    "dateModified": "{{ page.date | date_to_xmlschema }},
+    "{% endif %}
   }
 </script>
 {% else %}
@@ -14,8 +24,8 @@
     "@context": "http://schema.org",
     "@type": "Blog",
     "author": "{{ site.name }}",
-    "keywords": "patrick hyatt, developer",
-    "description": "Personal blog of Patrick Hyatt. Developer, traveller, gamer, PJ lover."
+    "keywords": "patrick hyatt, developer, traveller, gamer, PJ lover",
+    "description": "Personal blog of Patrick Hyatt."
   }
 </script> 
 {% endif %}	
