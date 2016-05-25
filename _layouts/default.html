@@ -11,7 +11,9 @@ layout: "compress"
     <meta name="description" content="Patrick Hyatt's site. I am a developer, traveler, PJ lover, and video gamer." />
     <meta name="keywords" content="Patrick, Hyatt, Patrick Hyatt, development, developer, .net, video games, travel" />
 
-    <title>{% if page.title %} {{ page.title }} - {% endif %} {{ site.title }}</title>
+    <title>
+      Patricks's Blog{% if page.title %}: {{ page.title }} {% endif %}{% if paginator.page and paginator.page > 1 %}: page {{ paginator.page }} {% endif %}
+    </title>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">

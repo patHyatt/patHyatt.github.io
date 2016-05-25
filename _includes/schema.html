@@ -6,14 +6,27 @@
     "@type": "BlogPosting",
     "headline": "{{ page.title }}",
     "author": "{{ site.name }}",
+    "mainEntityOfPage": "{{ site.url }}{{ page.url }}",
     "publisher": 
     {
       "@type": "Organization",
       "name": "{{ site.name }}",
       "url": "{{ site.url }}",
-      "logo": "https://pbs.twimg.com/profile_images/488757753054109696/JVzpYjG5_400x400.jpeg"
+      "logo": 
+      {
+        "@type": "ImageObject",
+        "url": "https://pbs.twimg.com/profile_images/488757753054109696/JVzpYjG5_400x400.jpeg",
+        "width": "400",
+        "height": "400"
+      }
     },
-    "image": "https://pbs.twimg.com/profile_images/488757753054109696/JVzpYjG5_400x400.jpeg",
+    "image": 
+    {
+        "@type": "ImageObject",
+        "url": "https://pbs.twimg.com/profile_images/488757753054109696/JVzpYjG5_400x400.jpeg",
+        "width": "400",
+        "height": "400"
+    },
     {% if page.date %}
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.date | date_to_xmlschema }}"
