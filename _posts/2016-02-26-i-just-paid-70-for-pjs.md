@@ -62,6 +62,7 @@ Up top, on the thighs on either side, two deep pockets. Large enough to fit a Ne
 This is a fair picture of what my day is like. Just look at how relaxed and focused that guy is:
 
 <amp-instagram
+    alt="Photograph of model in MeUndie lounge pants"
     data-shortcode="75kLONSbi_"
     width="320"
     height="392">
