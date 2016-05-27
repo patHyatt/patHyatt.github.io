@@ -22,7 +22,7 @@ To the trash they go. Pantless (PJ wise) Pat is in the building.
 <!--excerpt-->
 
 February 18, 2016
-Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank" aria-label="Link to Timothy Ferriss' podcast page">Tim Ferriss' postcast</a> I hear an ad for <a href="http://fbuy.me/dBlGv" target="_blank" aria-label="MeUndies promotion page. Get 20% off first purchase.' podcast page">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
+Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank" aria-label="The Timothy Ferriss podcast page">Tim Ferriss' postcast</a> I hear an ad for <a href="http://fbuy.me/dBlGv" target="_blank" aria-label="MeUndies promotional page">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
 Visit the site, and as a referred shopper, get 20% off, now you're talking my language. Check out what they have to offer, and notice some PJ pants and undies. Quickly pick some colors I find fitting, add to cart and see the total. 
 
 <a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN" target="_blank" aria-label="Amazon product link to The four hour work week book">
