@@ -1,6 +1,8 @@
 ---
 title: Running jekyll
 layout: "post"
+description: "Test posting indicating the blog's move from Blogger to GitHub pages"
+keywords: "blogger, github, migration, first, post"
 date: "2015-09-19 12:30:00 -0900"
 ---
 

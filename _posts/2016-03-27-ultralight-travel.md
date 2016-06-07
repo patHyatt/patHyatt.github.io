@@ -1,5 +1,7 @@
 ---
 title: Ultralight travel
+description: "I travel a lot, and this is how I've got rid of everything but the essentials and made my travel go from a pain to all gain."
+keywords: "ultralight, travel, minimal, pack, easy, airport, pain, storage"
 layout: "post"
 date: "2016-03-27 12:16:00 -0900"
 ---

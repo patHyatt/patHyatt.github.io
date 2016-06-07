@@ -2,16 +2,8 @@
 layout: post
 title: Setting up StackExchange's Opserver
 date: '2013-10-25T19:36:00.002-04:00'
-author: Pat Hyatt
-tags:
-- Nick Craver
-- StackOverflow
-- StackExchange
-- .NET
-- Opserver
-- C#
-- exception
-- monitoring
+description: "My ground up installation of StackExchange's home build monitoring software."
+keywords: "Nick Craver,StackOverflow,StackExchange,.NET,Opserver,C#,exception,monitoring"
 modified_time: '2013-10-25T19:38:16.860-04:00'
 thumbnail: http://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s72-c/blog_redis.png
 blogger_id: tag:blogger.com,1999:blog-1130780247100205939.post-6230668647083139269
