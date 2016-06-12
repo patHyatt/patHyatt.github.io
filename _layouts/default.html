@@ -25,6 +25,8 @@ layout: "compress"
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!-- AMP -->
     <style amp-custom>
       {% capture include_to_sassify %}
@@ -45,8 +47,6 @@ layout: "compress"
     {{ content }}
     <hr />
     {% include footer.html %}
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     {% include analytics.html %}
   </body>
 </html>
