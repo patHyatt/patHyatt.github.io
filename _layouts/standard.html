@@ -1,0 +1,26 @@
+---
+layout: "compress"
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--Common title/meta/etc-->
+    {% include head.html %}
+    <!--Stylin` and profiling-->
+    <style>
+      {% capture include_to_sassify %}
+        {% include main.sass %}
+      {% endcapture %}
+      {{ include_to_sassify | sassify }}
+    </style>
+    {% include schema.html %}
+  </head>
+  <body>
+    {% include nav-top.html %}
+    <hr />
+    {{ content }}
+    <hr />
+    {% include nav-bottom.html %}
+    {% include analytics.html %}
+  </body>
+</html>

@@ -4,7 +4,7 @@ layout: "post"
 date: "2016-03-01 21:16:00 -0900"
 description: "My experience in failing underwear and how I rectified it by not being a cheap guy."
 keywords: "meundies, price, review, pj, pajamas"
-amp_include: "<script async custom-element=\"amp-instagram\" src=\"https://cdn.ampproject.org/v0/amp-instagram-0.1.js\"></script>"
+amp-instagram: true
 ---
 
 Just typing out the title for this piece kind of hurts... somewhat.
