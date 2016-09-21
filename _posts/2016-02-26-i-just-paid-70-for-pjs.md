@@ -5,6 +5,8 @@ date: "2016-03-01 21:16:00 -0900"
 description: "My experience in failing underwear and how I rectified it by not being a cheap guy."
 keywords: "meundies, price, review, pj, pajamas"
 amp-instagram: true
+redirect_from:
+ - /2016/03/01/i-just-paid-70-for-pjs.html
 ---
 
 Just typing out the title for this piece kind of hurts... somewhat.
