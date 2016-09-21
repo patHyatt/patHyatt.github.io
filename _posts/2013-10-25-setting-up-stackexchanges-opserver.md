@@ -8,6 +8,8 @@ modified_time: '2013-10-25T19:38:16.860-04:00'
 thumbnail: http://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s72-c/blog_redis.png
 blogger_id: tag:blogger.com,1999:blog-1130780247100205939.post-6230668647083139269
 blogger_orig_url: http://patpack.blogspot.com/2013/10/setting-up-stackexchanges-opserver.html
+redirect_from:
+ - /2013/10/setting-up-stackexchanges-opserver.html
 ---
 
 <a href="http://nickcraver.com/blog/">Nick Craver</a> from <a href="http://stackexchange.com/">StackExchange</a> recently posted StackExchange's homegrown monitoring system.  The system, named <a href="https://github.com/opserver/Opserver">Opserver </a>is available on <a href="http://github.com/">GitHub</a>.
