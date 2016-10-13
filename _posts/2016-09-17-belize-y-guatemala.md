@@ -6,7 +6,7 @@ description: "Our wonderful trip to Belize and Guatemala, and why you should go.
 keywords: "travel, Belize, Guatemala, Tikal, ATM, Gaia Riverlodge"
 ---
 
-# Buenos Dias
+## Buenos Dias
 
 Last Sunday (the 11th) we got to rest in our own bed again, after an 11 day trip to countries we never planned to visit.
 
@@ -16,7 +16,7 @@ Last Sunday (the 11th) we got to rest in our own bed again, after an 11 day trip
 
 Of course based on the title, you smart folk can identify that it was Belize and Guatemala.
 
-## Reasoning
+### Reasoning
 
 There were two points to our trip:
 
@@ -50,7 +50,7 @@ The schedule, yielding what we think is maximum coverage and immersion:
 <em>* Links navigate to my referral page, search for Yarl Villa or Princesa Angienelle for the specific properties. There is no way to recommend specific locations currently with AirBnB.
 
 
-## Packing
+### Packing
 Per my post, <a href="{% post_url 2016-03-27-ultralight-travel %}" aria-label="Blog post on Ultralight travel" target="_blank">Ultralight Travel</a>, mobility is key when traveling. Making packing a cinch, leaves you more time to spend on the vacation. I seriously packed to leave Belize, in 10 minutes, after 7 <a href="http://www.belikin.com/" aria-label="Belikin Beer" target="_blank">Belikins</a>. The target climates were tropical jungle, or tropical beach for the most part.
 
  The following image is what I took for this particular vacation. Note there are two backpacks here, one Chrome bag is used as the luggage for air/ground travel. The JanSport is for day trips holding water bottles or jackets.
@@ -60,7 +60,7 @@ Per my post, <a href="{% post_url 2016-03-27-ultralight-travel %}" aria-label="B
 	<amp-img src="/assets/img/2016/09/17/thmb_belize_pack.jpg" alt="My pack for Belize" height="200" width="267"></amp-img>
 </a>
 
-## The trip
+### The trip
 
 Amazing and unique as can be.
 
@@ -73,7 +73,7 @@ Speaking for both my wife and I , a good trip is a blend of historical digging, 
 On top of all of this, we brought our family. So most everything we did we had our parents in tow. Shoutout to my mother (61) and my wife's parents (him 64, her 65) who navigated the unknown with us on the Actun Tunichil Muknal tour and all of its obstacles.
 
 
-## Notes/Recommendations
+### Notes/Recommendations
 
  - Visiting Belize, you do **NOT** have to convert currency. Every place we visited accepted US dollars.
  - Credit card use was **RARE**. Only in Caye Caulker was it used heavily, otherwise cash was the most accepted means of paying.
@@ -86,7 +86,7 @@ On top of all of this, we brought our family. So most everything we did we had o
 
  - Do bring <a href="http://amzn.to/2cArclX" aria-label="Amazon link to bug spray" target="_blank">bug spray</a> as you are in a hot, wet/moist climate. Mosquitoes are a thing.
 
-## Choose your own adventure
+### Choose your own adventure
 
  Want to relax by the lakeside and watch birds?  
  Go to Crooked Tree
