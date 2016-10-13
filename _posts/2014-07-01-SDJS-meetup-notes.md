@@ -1,6 +1,7 @@
 ---
 title: "SDJS Meetup Notes"
 layout: "post"
+description: Useless notes, noone will make use of.
 date: "2014-07-01 19:30:00 -0900"
 ---
 
