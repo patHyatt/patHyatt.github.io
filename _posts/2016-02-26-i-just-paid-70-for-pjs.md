@@ -26,7 +26,8 @@ To the trash they go. Pantless (PJ wise) Pat is in the building.
 <!--excerpt-->
 
 February 18, 2016
-Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank" aria-label="The Timothy Ferriss podcast page">Tim Ferriss' postcast</a> I hear an ad for <a href="http://fbuy.me/dBlGv" target="_blank" aria-label="MeUndies promotional page">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
+Listening to <a href="http://fourhourworkweek.com/podcast/" target="_blank" aria-label="The Timothy Ferriss podcast page">Tim Ferriss' postcast</a> I hear an ad for <a href="http://getcomfy.in/eIche" target="_blank" aria-label="
+dies promotional page">meundies</a> and as I recall the description, "softer than cotton". Interesting, lets check this out.
 Visit the site, and as a referred shopper, get 20% off, now you're talking my language. Check out what they have to offer, and notice some PJ pants and undies. Quickly pick some colors I find fitting, add to cart and see the total. 
 
 <a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=papa00-20&linkId=J36OCZPJ6MPX3XLN" target="_blank" aria-label="Amazon product link to The four hour work week book">
@@ -50,7 +51,7 @@ Altogether the damage to the credit card was $77.76. $90 original - $18 discount
 It was a Thursday that I purchased these, shipping info said I'd get them Monday. No big deal...
 
 February 22, 2016
-Fedex (via the USPS) drop off a black pouch from <a href="http://fbuy.me/dBlGv" target="_blank">meundies</a> about the size of a pack of beef jerky or a grab bag of potato chips. Minimal design/packaging, like how I travel. I dig it. Check it out below:
+Fedex (via the USPS) drop off a black pouch from <a href="http://getcomfy.in/eIche" target="_blank">meundies</a> about the size of a pack of beef jerky or a grab bag of potato chips. Minimal design/packaging, like how I travel. I dig it. Check it out below:
 
 <a href="/assets/img/2016/02/26/packaging.jpg" target="_blank" aria-label="Link to full size image of MeUndie's packaging">
 	<amp-img src="/assets/img/2016/02/26/packaging.jpg" alt="Photo of meundies minimal packaging" height="267" width="200"></amp-img>
