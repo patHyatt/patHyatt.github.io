@@ -18,6 +18,8 @@ But the saying and it's application applies to everything in your life.
 Another way I phrase it to myself, or unfortunate others I yap with is:  
 **At what cost**
 
+<!--excerpt-->
+
 ## How does it apply?
 Let me provide some examples of how it this applies to areas that seemingly it
 does not.
