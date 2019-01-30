@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: patrickhyatt.com
+Token: 77df20bb22c535caeb70d62882a43a3a52d266831c5c77c0fff9cb9996b102e5
