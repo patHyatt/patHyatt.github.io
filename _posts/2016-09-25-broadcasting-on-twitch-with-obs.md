@@ -11,9 +11,7 @@ keywords: "open broadcasting system, OBS, twitch, broadcasting, streaming, setup
 link for your operating system. This guide will continue with MAC OSX.
 2. Double click on OBS.dmg (or .exe for Windows) file downloaded, and continue through the installer.
 You'll need to run root privileges to complete the installation.
-<a href="/assets/img/2016/09/25/obs_install.png" target="_blank" aria-label="Link to full image of OBS installation">
-	<amp-img src="/assets/img/2016/09/25/thmb_obs_install.png" alt="OBS installation" height="284" width="404"></amp-img>
-</a>
+<a href="/assets/img/2016/09/25/obs_install.png" target="_blank" aria-label="Link to full image of OBS installation"><amp-img src="/assets/img/2016/09/25/thmb_obs_install.png" alt="OBS installation" height="284" width="404"></amp-img></a>
 3. Launch OBS. I used Spotlight to find OBS and launch.
 <!--excerpt-->
 4. Your initial launch will require you to accept the license agreement.
