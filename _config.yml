@@ -12,7 +12,8 @@ linkedin: "https://www.linkedin.com/in/patrickhyatt"
 hackernews: "https://news.ycombinator.com/user?id=PatHyatt"
 instagram: "https://www.instagram.com/patrick.hyatt/"
 
-gems:
+plugins:
+  - jekyll-paginate
   - jekyll-redirect-from
 
 sass:
