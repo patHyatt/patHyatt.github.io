@@ -7,7 +7,7 @@ keywords: "open broadcasting system, OBS, twitch, broadcasting, streaming, setup
 ---
 
 ## Setup
-1. Navigate to <a href="https://obsproject.com/download" aria-label="OBS download" target="_blank">https://obsproject.com/download</a>, and click the appropriate OBS Studio
+1. Navigate to <a rel="noopener" href="https://obsproject.com/download" aria-label="OBS download" target="_blank">https://obsproject.com/download</a>, and click the appropriate OBS Studio
 link for your operating system. This guide will continue with MAC OSX.
 2. Double click on OBS.dmg (or .exe for Windows) file downloaded, and continue through the installer.
 You'll need to run root privileges to complete the installation.
