@@ -3,7 +3,7 @@ title:
 layout: "standard"
 ---
 <div class="container">
-  	{% for post in paginator.posts %}
+  	{% for post in site.posts %}
       <a class="lead" href="{{ post.url }}">
         <span>{{ post.date | date_to_string }} &raquo;</span> {{ post.title }}
       </a>
@@ -11,19 +11,5 @@ layout: "standard"
       <br /><br />
       <a class="mark lead" href="{{ post.url }}">Read more...</a>
       <hr />
-      {% endfor %}
-
-    <div class="lead text-center pagination col-xs-12">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" rel="prev" class="previous">Previous</a>
-      {% else %}
-        <span class="previous">Previous</span>
-      {% endif %}
-      <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" rel="next" class="next">Next</a>
-      {% else %}
-        <span class="next">Next</span>
-      {% endif %}
-    </div>
+      {% endfor %}  
 </div>
