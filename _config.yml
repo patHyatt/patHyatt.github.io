@@ -13,7 +13,6 @@ hackernews: "https://news.ycombinator.com/user?id=PatHyatt"
 instagram: "https://www.instagram.com/patrick.hyatt/"
 
 plugins:
-  - jekyll-paginate
   - jekyll-redirect-from
 
 sass:
@@ -31,7 +30,5 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
-paginate: 3
 
 exclude: [README.markdown, package.json, node_modules, Gemfile, Gemfile.lock]
