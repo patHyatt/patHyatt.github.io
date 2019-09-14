@@ -10,7 +10,7 @@ A long while ago, say 5 years back, on the way home from a work trip from Bellev
 
 The book I purchased, after some internet sleuthing on "good books for developers" or a similar keyword setup, was this guy:
 
-<a href="https://www.amazon.com/gp/product/0321965515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=papa00-20&linkId=d1e6c449884cd6257cb3f746d39a3f07">
+<a href="https://www.amazon.com/gp/product/0321965515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=papa00-20&linkId=d1e6c449884cd6257cb3f746d39a3f07" alt="Book: Don't make me think by Steve Krug">
 	<amp-img src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0321965515&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=papa00-20"
 		height="160" width="105" alt="Book: Don't make me think by Steve Krug" />
 </a>
