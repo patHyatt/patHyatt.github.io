@@ -21,7 +21,7 @@ So lets try this.
 		Grab the code from GitHub either, for the lazy here is the <a href="https://github.com/opserver/Opserver/archive/master.zip">zip file link</a>
 	</li>
 	<li>
-		If using Visual Studio 2010 or previous, make sure you have ASP.NET MVC installed. Grab that <a href="https://www.asp.net/mvc/mvc4" alt="ASP.Net MVC4 homepage">here</a> and make sure to run the installer as administrator [Windows 7+].
+		If using Visual Studio 2010 or previous, make sure you have ASP.NET MVC installed. Grab that at the <a href="https://www.asp.net/mvc/mvc4" alt="ASP.Net MVC4 homepage">ASP.Net MVC4 homepage</a> and make sure to run the installer as administrator [Windows 7+].
 	</li>
 	<li>
 		Crack open the solution file (either from your cloned repo OR the unzipped package downloaded in step ). There should be 2 projects visible and loaded. If you get a "The project file '.....csproj' cannot be opened. The project type is not supported by this installation." error, see this <a href="http://stackoverflow.com/questions/1531120/asp-net-mvc-project-not-supported-by-this-installation#1532183">StackOverflow answer</a>.
