@@ -136,7 +136,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 	Here's a screenshot of what the Redis monitor home page looks like:
 	<br />
 	<a href="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s1600/blog_redis.png" alt="Opserver - Redis area">
-		<amp-img height="92" src="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s400/blog_redis.png" width="400" />
+		<amp-img alt="Opserver - Redis area" height="92" src="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s400/blog_redis.png" width="400" />
 	</a>
 </div>
 
@@ -189,7 +189,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 
 <div>
 	<a href="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s1600/blog_sql.png" alt="Opserver - SQL area">
-		<amp-img height="207" src="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s400/blog_sql.png" width="400" />
+		<amp-img alt="Opserver - SQL area height="207" src="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s400/blog_sql.png" width="400" />
 	</a>
 </div>
 
@@ -204,7 +204,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 </div>
 <div>
 	<a href="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s1600/blog_sql2.png" alt="Opserver - SQL area, part 2">
-		<amp-img height="288" src="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s400/blog_sql2.png" width="400" />
+		<amp-img alt="Opserver - SQL area, part 2" height="288" src="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s400/blog_sql2.png" width="400" />
 	</a>
 </div>
 
