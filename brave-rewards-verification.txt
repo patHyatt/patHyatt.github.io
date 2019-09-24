@@ -5,4 +5,4 @@ permalink: .well-known/brave-payments-verification.txt
 This is a Brave Rewards publisher verification file.
 
 Domain: patrickhyatt.com
-Token: 77df20bb22c535caeb70d62882a43a3a52d266831c5c77c0fff9cb9996b102e5
+Token: 62c84bb0f97f9070b6829dc43c58be93e466ef94ef07fad4ec2ee07d25050f9c
