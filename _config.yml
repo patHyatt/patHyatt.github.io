@@ -31,4 +31,4 @@ compress_html:
   profile: false
   startings: []
 
-exclude: [README.markdown, package.json, node_modules, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock]
