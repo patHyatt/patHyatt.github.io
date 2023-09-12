@@ -31,4 +31,5 @@ compress_html:
   profile: false
   startings: []
 
+include: [".well-known"]
 exclude: [README.md, Gemfile, Gemfile.lock]
