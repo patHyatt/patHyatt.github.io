@@ -11,7 +11,7 @@ keywords: "travel, Belize, Guatemala, Tikal, ATM, Gaia Riverlodge"
 Last Sunday (the 11th) we got to rest in our own bed again, after an 11 day trip to countries we never planned to visit.
 
 <a href="/assets/img/2016/09/17/tikal_pano.jpg" target="_blank" aria-label="Panoramic photo of Tikal's Grand Plaza">
-	<amp-img src="/assets/img/2016/09/17/thmb_tikal_pano.jpg" alt="Panoramic photo of Tikal's Grand Plaza" height="152" width="600"></amp-img>
+	<img src="/assets/img/2016/09/17/thmb_tikal_pano.jpg" alt="Panoramic photo of Tikal's Grand Plaza" height="152" width="600" loading="lazy" decoding="async">
 </a>
 
 Of course based on the title, you smart folk can identify that it was Belize and Guatemala.
@@ -37,7 +37,7 @@ Initially Costa Rica was the spot, but after a few emails to places we wanted to
 In our rush, we geographically went upward. After some more emails for lodging, Belize had an initial launch pad and place for ceremony. Game on.
 
 <a href="/assets/img/2016/09/17/gaia_pano.jpg" target="_blank" aria-label="Panoramic photo from Gaia Riverlodge">
-	<amp-img src="/assets/img/2016/09/17/thmb_gaia_pano.jpg" alt="Panoramic photo from Gaia Riverlodge" height="154" width="600"></amp-img>
+	<img src="/assets/img/2016/09/17/thmb_gaia_pano.jpg" alt="Panoramic photo from Gaia Riverlodge" height="154" width="600" loading="lazy" decoding="async">
 </a>
 
 The schedule, yielding what we think is maximum coverage and immersion:
@@ -57,7 +57,7 @@ Per my post, <a href="{% post_url 2016-03-27-ultralight-travel %}" aria-label="B
 
 
 <a href="/assets/img/2016/09/17/belize_pack.jpg" target="_blank" aria-label="Link to full size image of my pack for Belize">
-	<amp-img src="/assets/img/2016/09/17/thmb_belize_pack.jpg" alt="My pack for Belize" height="200" width="267"></amp-img>
+	<img src="/assets/img/2016/09/17/thmb_belize_pack.jpg" alt="My pack for Belize" height="200" width="267" loading="lazy" decoding="async">
 </a>
 
 ### The trip
@@ -81,7 +81,7 @@ On top of all of this, we brought our family. So most everything we did we had o
  - If you want isolated beauty, visit the wonderful location at Gaia Riverlodge. A very special shoutout and thanks to Nigel and Lucely who were amazing at making us feel welcomed.
 
  <a href="/assets/img/2016/09/17/gaia_ceremony.jpg" target="_blank" aria-label="Gaia's beautiful decoration for our ceremony">
- 	<amp-img src="/assets/img/2016/09/17/thmb_gaia_ceremony.jpg" alt="Gaia's beautiful decoration for our ceremony" height="225" width="300"></amp-img>
+ 	<img src="/assets/img/2016/09/17/thmb_gaia_ceremony.jpg" alt="Gaia's beautiful decoration for our ceremony" height="225" width="300" loading="lazy" decoding="async">
  </a>
 
  - Do bring <a href="http://amzn.to/2cArclX" aria-label="Amazon link to bug spray" target="_blank">bug spray</a> as you are in a hot, wet/moist climate. Mosquitoes are a thing.

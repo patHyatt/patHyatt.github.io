@@ -11,12 +11,12 @@ keywords: "open broadcasting system, OBS, twitch, broadcasting, streaming, setup
 link for your operating system. This guide will continue with MAC OSX.
 2. Double click on OBS.dmg (or .exe for Windows) file downloaded, and continue through the installer.
 You'll need to run root privileges to complete the installation.
-<a href="/assets/img/2016/09/25/obs_install.png" target="_blank" aria-label="Link to full image of OBS installation"><amp-img src="/assets/img/2016/09/25/thmb_obs_install.png" alt="OBS installation" height="284" width="404"></amp-img></a>
+<a href="/assets/img/2016/09/25/obs_install.png" target="_blank" aria-label="Link to full image of OBS installation"><img src="/assets/img/2016/09/25/thmb_obs_install.png" alt="OBS installation" height="284" width="404" loading="lazy" decoding="async"></a>
 3. Launch OBS. I used Spotlight to find OBS and launch.
 <!--excerpt-->
 4. Your initial launch will require you to accept the license agreement.
-<a href="/assets/img/2016/09/25/obs_license.png" target="_blank" aria-label="Link to full image of OBS license acceptance"><amp-img src="/assets/img/2016/09/25/thmb_obs_license.png" alt="OBS license acceptance" height="295" width="298"></amp-img></a>
-<a href="/assets/img/2016/09/25/obs_initial_open.png" target="_blank" aria-label="Full image of initial OBS opening"><amp-img src="/assets/img/2016/09/25/thmb_obs_initial_open.png" alt="initial OBS opening" height="470" width="622"></amp-img></a>
+<a href="/assets/img/2016/09/25/obs_license.png" target="_blank" aria-label="Link to full image of OBS license acceptance"><img src="/assets/img/2016/09/25/thmb_obs_license.png" alt="OBS license acceptance" height="295" width="298" loading="lazy" decoding="async"></a>
+<a href="/assets/img/2016/09/25/obs_initial_open.png" target="_blank" aria-label="Full image of initial OBS opening"><img src="/assets/img/2016/09/25/thmb_obs_initial_open.png" alt="initial OBS opening" height="470" width="622" loading="lazy" decoding="async"></a>
 
 ## Associate your Twitch.tv account with OBS.
 1. Click the "Settings" button **OR** Click OBS menu, then Preferences.
@@ -24,9 +24,9 @@ You'll need to run root privileges to complete the installation.
 3. Open browser and navigate to your Twitch.tv dashboard's Stream Key section:
 <a href="https://www.twitch.tv/USERNAME/dashboard/streamkey" aria-label="Twitch dashboard" target="_blank">https://www.twitch.tv/USERNAME/dashboard/streamkey</a>, replacing USERNAME with
 your Twitch user name.
-<a href="/assets/img/2016/09/25/twitch_streamkey_page.png" target="_blank" aria-label="Full image of Twitch stream key page"><amp-img src="/assets/img/2016/09/25/thmb_twitch_streamkey_page.png" alt="Twitch stream key page" height="134" width="434"></amp-img></a>
+<a href="/assets/img/2016/09/25/twitch_streamkey_page.png" target="_blank" aria-label="Full image of Twitch stream key page"><img src="/assets/img/2016/09/25/thmb_twitch_streamkey_page.png" alt="Twitch stream key page" height="134" width="434" loading="lazy" decoding="async"></a>
 4. Click "Show Key", then click "I Understand" to warning dialog.
-<a href="/assets/img/2016/09/25/twitch_streamkey_warning.png" target="_blank" aria-label="Full image of Twitch stream key warning"><amp-img src="/assets/img/2016/09/25/thmb_twitch_streamkey_warning.png" alt="Twitch stream key warning" height="207" width="287"></amp-img></a>
+<a href="/assets/img/2016/09/25/twitch_streamkey_warning.png" target="_blank" aria-label="Full image of Twitch stream key warning"><img src="/assets/img/2016/09/25/thmb_twitch_streamkey_warning.png" alt="Twitch stream key warning" height="207" width="287" loading="lazy" decoding="async"></a>
 5. Copy key displayed and paste into OBS "Stream Key" input opened in step 2.
 6. You are now configured to stream to Twitch.
 
@@ -44,7 +44,7 @@ starting point to add your initial game to stream.
 
 ## Add Source
 1. Click the + icon in the Sources area
-<a href="/assets/img/2016/09/25/obs_add_source.png" target="_blank" aria-label="Full image of adding an OBS Source"><amp-img src="/assets/img/2016/09/25/thmb_obs_add_source.png" alt="Adding an OBS Source" height="185" width="222"></amp-img></a>
+<a href="/assets/img/2016/09/25/obs_add_source.png" target="_blank" aria-label="Full image of adding an OBS Source"><img src="/assets/img/2016/09/25/thmb_obs_add_source.png" alt="Adding an OBS Source" height="185" width="222" loading="lazy" decoding="async"></a>
 2. Launch your game of choice
 3. Select Window Capture*. This lets you output an entire window. For browsers
 with multiple tabs, this means the tab displayed will be what is shown.
@@ -52,9 +52,9 @@ with multiple tabs, this means the tab displayed will be what is shown.
 new source immediately. Unchecking this, you will need to click the eye icon
 next to the source in order to see your game being played.
 5. Select the game you launched in step 2 and click "OK"
-<a href="/assets/img/2016/09/25/obs_select_game.png" target="_blank" aria-label="Full image of game selection"><amp-img src="/assets/img/2016/09/25/thmb_obs_select_game.png" alt="Game selection" height="259" width="314"></amp-img></a>
+<a href="/assets/img/2016/09/25/obs_select_game.png" target="_blank" aria-label="Full image of game selection"><img src="/assets/img/2016/09/25/thmb_obs_select_game.png" alt="Game selection" height="259" width="314" loading="lazy" decoding="async"></a>
 6. Resize the game appropriately to fit your screen or desired height/width
-<a href="/assets/img/2016/09/25/obs_resize.png" target="_blank" aria-label="Link to full image resizing game window"><amp-img src="/assets/img/2016/09/25/thmb_obs_resize.png" alt="Resizing game window" height="236" width="391"></amp-img></a>
+<a href="/assets/img/2016/09/25/obs_resize.png" target="_blank" aria-label="Link to full image resizing game window"><img src="/assets/img/2016/09/25/thmb_obs_resize.png" alt="Resizing game window" height="236" width="391" loading="lazy" decoding="async"></a>
 
 <small>*A better option is to use Game Capture (Syphon), but requires a tad more details to setup. See Source: Game Capture on <a href="https://help.twitch.tv/customer/portal/articles/1262922-open-broadcaster-software#Scenes & Sources" target="_blank" aria-label="Scenes & Sources in OBS">Scenes & Sources</a></small>
 

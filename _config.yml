@@ -1,9 +1,8 @@
 title: "patrickhyatt.com"
+name: "Patrick Hyatt"
 url: "https://www.patrickhyatt.com"
 excerpt_separator: <!--excerpt-->
 
-#author:
-name: "Patrick Hyatt"
 email: "patrick.hyatt@gmail.com"
 stackoverflow: "https://stackoverflow.com/users/36/pat"
 github: "https://www.github.com/patHyatt"
@@ -13,16 +12,47 @@ instagram: "https://www.instagram.com/patrick.hyatt/"
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-picture-tag
 
 sass:
   style: compressed
 
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+
+picture:
+  source: "assets/img"
+  output: "assets/img/generated"
+  suppress_warnings: false
+  presets:
+    default:
+      formats: [webp, original]
+      widths: [400, 800, 1200]
+      sizes:
+        "(max-width: 720px)": 100vw
+        default: 700px
+      attributes:
+        img:
+          loading: lazy
+          decoding: async
+    thumbnail:
+      formats: [webp, original]
+      widths: [300, 600]
+      sizes:
+        "(max-width: 400px)": 100vw
+        default: 300px
+      attributes:
+        img:
+          loading: lazy
+          decoding: async
 
 compress_html:
   clippings: []
-  comments: ['all']
+  comments: ['<!--', '-->']
   endings: []
   ignore:
     envs: []
@@ -31,4 +61,4 @@ compress_html:
   startings: []
 
 include: [".well-known"]
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, POSTING.md, Gemfile, Gemfile.lock]

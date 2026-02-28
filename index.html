@@ -3,13 +3,18 @@ title:
 layout: "standard"
 ---
 <div class="container">
-  	{% for post in site.posts %}
-      <a class="lead" href="{{ post.url }}">
-        <span>{{ post.date | date_to_string }} &raquo;</span> {{ post.title }}
-      </a>
-      {{ post.excerpt }}
-      <br /><br />
-      <a class="mark lead" href="{{ post.url }}">Read more...</a>
-      <hr />
-      {% endfor %}  
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li class="post-item">
+      <p class="post-date">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      </p>
+      <a class="post-title-link" href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.excerpt %}
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+      {% endif %}
+      <a class="read-more" href="{{ post.url }}">Read more &rarr;</a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>

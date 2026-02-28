@@ -1,3 +1,10 @@
 source "https://rubygems.org"
-gem 'github-pages'
+
+gem 'jekyll', '~> 4.3'
+gem 'jekyll-picture-tag', '~> 2.0'
 gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'webrick'

@@ -4,9 +4,7 @@ layout: "compress"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--Common title/meta/etc-->
     {% include head.html %}
-    <!--Stylin` and profiling-->
     <style>
       {% capture include_to_sassify %}
         {% include main.sass %}
@@ -16,10 +14,11 @@ layout: "compress"
     {% include schema.html %}
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     {% include nav-top.html %}
-    <hr />
-    {{ content }}
-    <hr />
+    <main id="main-content">
+      {{ content }}
+    </main>
     {% include nav-bottom.html %}
     {% include analytics.html %}
   </body>
