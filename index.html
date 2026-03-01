@@ -6,10 +6,12 @@ layout: "standard"
   <ul class="post-list">
     {% for post in site.posts %}
     <li class="post-item">
+      <h2 class="post-title"><a class="post-title-link" href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="post-date">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        &middot;
+        {% include reading-time.html content=post.content %}
       </p>
-      <a class="post-title-link" href="{{ post.url }}">{{ post.title }}</a>
       {% if post.excerpt %}
       <div class="post-excerpt">{{ post.excerpt }}</div>
       {% endif %}

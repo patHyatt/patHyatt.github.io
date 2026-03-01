@@ -8,9 +8,7 @@ layout: "standard"
       <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
         &middot;
-        {% assign words = content | number_of_words %}
-        {% assign reading_time = words | divided_by: 200 | plus: 1 %}
-        {{ reading_time }}&nbsp;min read
+        {% include reading-time.html content=content %}
       </p>
     </header>
     <div class="post-content">
