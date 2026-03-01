@@ -39,7 +39,7 @@ So lets try this.
 <div>
 	All configuration is handled by .json files in the Opserver/Config directory. Nick has a .example file for each of the different types of dashboards there are. Some of these appear to be very centric to StackExchanges build, so out of the box you may not be able to use all the configurations without reworking some areas of your codebase.
 </div>
-<h3>SecuritySettings.json</span></h3>
+<h3>SecuritySettings.json</h3>
 <div>
 	This is the first file you'll need to copy/paste in order to get into the system.
 </div>

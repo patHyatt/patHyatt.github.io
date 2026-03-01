@@ -21,7 +21,7 @@ Whether you are a sandy beach sap (hello dad!) or a cultural sponge, one thing t
 	3.  You have to find somewhere to put it.  
 
 After numerous trips, both domestic trips lasting 10 days, to international lasting 18 days, I've simplified my travel experience to a single backpack.   
-\**Maybe a hand bag if we're bringing back gifts/goodies*  
+*Maybe a hand bag if we're bringing back gifts/goodies*
 
 This has changed the travel game for me.  
 
@@ -29,16 +29,16 @@ Lets look at some of the **freedoms** this affords you.
 
 <!--excerpt-->
 
-### Freedom of time
+## Freedom of time
 If you are rocking a large bag that cannot be put in the overhead, you're checking it in. Get in line and wait to talk to someone so you can check that bastard in.
 THEN, you get to your destination, rush to get off the plane, run over to the baggage area, and wait more.
 
 Both of these suck immensely. Free up at least ~30 minutes and avoid it all together.
 
-### Freedom of worry (Peace of mind?)
+## Freedom of worry (Peace of mind?)
 You hand your clothes/goodies over to at least 3 strangers to hopefully handle your bag well, put it on the right conveyers, and have the bags shuffle to the proper plane. With the more ways (conditionals) a path can be split, the more chances something can go awry. I have yet to have a bag lost or come late due to it being shipped off somewhere else. And that lack of worry is huge. Honestly, try it.
 
-### Freedom of mobility
+## Freedom of mobility
 Personally, I think this is the most important. Some of the best trips we've had were hopping around a lot or making a quick decision. When moving around a lot, imagine being able to pack in 5 minutes, and KNOW for sure that you have everything before you leave the room. It is insane, so much so you play against yourself and say there is no way I'm done packing already, I must have missed something. NOPE, if your bag is full-ish, you are ready to roll.
 
 On top of this, with a single bag, I can put it in an overhead OR the floor (airplanes), under my legs (bus) or in my lap if there are extreme space issues. I'm amazed by how much stress it seems folks are in when they get on a plane and notice the dwindling overhead bins. It gets Max Max like really quick with those things. Bypass it entirely, throw your damn bag underneath or on top of someone else's and move on.
@@ -49,15 +49,15 @@ Here is a list of items I bring regardless of the trip:
 
 <ul>
 	<li>USB phone charger - Phone is generally the camera and internet device. No brainer here eh?</li>
-	<li><a href="http://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.</li>
-	<li><a href="http://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. <b>Love</b> this thing.</li>
+	<li><a href="https://www.amazon.com/gp/product/B00IJXBX74/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IJXBX74&linkCode=as2&tag=papa00-20&linkId=BNQQ7QYDTBQEI2EU" target="_blank">Sony ear buds</a> - Cheap, and small enough to carry in a pocket easy. Doubles ear plugs if you're trying to sleep or kids are being nutty on the plane.</li>
+	<li><a href="https://www.amazon.com/gp/product/B00LG9KXY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LG9KXY2&linkCode=as2&tag=papa00-20&linkId=M5F53PXEXKQ3MAY2" target="_blank">Marmot Trail Wind Hoody jacket</a> - Mostly water-proof, wind-proof, light weight, and compacts down to a fist sized ball. Layering my friends, this goes on top. <strong>Love</strong> this thing.</li>
 	<li>V-neck sweater - Able to throw on a collard shirt for a nicer look, or for warmth. Couple with above for more warmth and element protection.</li>
 	<li>Tea bags - Can generally grab hot water from any store/vendor for free, tea is an easy way to warm up and avoid costly and crappy drinks.</li>
-	<li><a href="http://www.amazon.com/gp/product/B004RRKAJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RRKAJS&linkCode=as2&tag=papa00-20&linkId=LNM3S2O7ZMNHKL73" target="_blank">16oz Klean Kanteen</a> - Keeps hots hot, colds cold and is a respectable size and easy to clean with the wide mouth, only the loop lid for travel</li>
+	<li><a href="https://www.amazon.com/gp/product/B004RRKAJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RRKAJS&linkCode=as2&tag=papa00-20&linkId=LNM3S2O7ZMNHKL73" target="_blank">16oz Klean Kanteen</a> - Keeps hots hot, colds cold and is a respectable size and easy to clean with the wide mouth, only the loop lid for travel</li>
 	<li>First aid kit - Really generic, a few bandaids, cut ointments, bare minimum here</li>
-	<li><a href="http://www.amazon.com/gp/product/B00CEOII9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CEOII9K&linkCode=as2&tag=papa00-20&linkId=E44TEVOYLXCG6PI3" target="_blank">Cree Mini LED Flashlight</a> - Great for if you drop something on the airplane/bus floor or can't find your <a href="https://www.airbnb.com/c/ssoto4?s=8" target="_blank">Airbnb's</a> address sign.</li>
-	<li><a href="http://www.amazon.com/gp/product/B00BUI7HFC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUI7HFC&linkCode=as2&tag=papa00-20&linkId=S6S6RT2O3CTKL4TY" target="_blank">Scruba</a> - it's a small wash bag that has bumps in it for generating friction. Doubles as a <a href="https://en.wikipedia.org/wiki/Dry_bag" target="_blank">dry bag</a></li>
-	<li><a href="http://www.amazon.com/gp/product/B00XHDM6HW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XHDM6HW&linkCode=as2&tag=papa00-20&linkId=PLP5POJZAAZSOIEY" target="_blank">Space Bag</a> - Vacuum seal type bags for clothing. You sit/roll/squash the air out. This makes your clothing as compact as possible.</li>
+	<li><a href="https://www.amazon.com/gp/product/B00CEOII9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CEOII9K&linkCode=as2&tag=papa00-20&linkId=E44TEVOYLXCG6PI3" target="_blank">Cree Mini LED Flashlight</a> - Great for if you drop something on the airplane/bus floor or can't find your <a href="https://www.airbnb.com/c/ssoto4?s=8" target="_blank">Airbnb's</a> address sign.</li>
+	<li><a href="https://www.amazon.com/gp/product/B00BUI7HFC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUI7HFC&linkCode=as2&tag=papa00-20&linkId=S6S6RT2O3CTKL4TY" target="_blank">Scruba</a> - it's a small wash bag that has bumps in it for generating friction. Doubles as a <a href="https://en.wikipedia.org/wiki/Dry_bag" target="_blank">dry bag</a></li>
+	<li><a href="https://www.amazon.com/gp/product/B00XHDM6HW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XHDM6HW&linkCode=as2&tag=papa00-20&linkId=PLP5POJZAAZSOIEY" target="_blank">Space Bag</a> - Vacuum seal type bags for clothing. You sit/roll/squash the air out. This makes your clothing as compact as possible.</li>
 </ul>
 
 The last item there is a requirement, it changes the game for packing and keeping things compact.
