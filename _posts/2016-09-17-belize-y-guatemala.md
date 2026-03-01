@@ -84,7 +84,7 @@ On top of all of this, we brought our family. So most everything we did we had o
  	<img src="/assets/img/2016/09/17/thmb_gaia_ceremony.jpg" alt="Gaia's beautiful decoration for our ceremony" height="225" width="300" loading="lazy" decoding="async">
  </a>
 
- - Do bring <a href="http://amzn.to/2cArclX" aria-label="Amazon link to bug spray" target="_blank">bug spray</a> as you are in a hot, wet/moist climate. Mosquitoes are a thing.
+ - Do bring <a href="https://amzn.to/2cArclX" aria-label="Amazon link to bug spray" target="_blank">bug spray</a> as you are in a hot, wet/moist climate. Mosquitoes are a thing.
 
 ### Choose your own adventure
 
