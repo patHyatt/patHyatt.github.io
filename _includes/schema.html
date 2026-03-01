@@ -2,10 +2,10 @@
 {% if page.excerpt %}
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ page.title }}",
-    "author": "{{ site.name }}",
+    "author": {"@type": "Person", "name": "{{ site.name }}"},
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}",
     "publisher": 
     {
@@ -36,9 +36,9 @@
 {% else %}
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "Blog",
-    "author": "{{ site.name }}",
+    "author": {"@type": "Person", "name": "{{ site.name }}"},
     "keywords": "patrick hyatt, developer, traveller, gamer, PJ lover",
     "description": "Personal blog of Patrick Hyatt."
   }

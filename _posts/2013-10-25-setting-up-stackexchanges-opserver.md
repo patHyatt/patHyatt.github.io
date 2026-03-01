@@ -39,7 +39,7 @@ So lets try this.
 <div>
 	All configuration is handled by .json files in the Opserver/Config directory. Nick has a .example file for each of the different types of dashboards there are. Some of these appear to be very centric to StackExchanges build, so out of the box you may not be able to use all the configurations without reworking some areas of your codebase.
 </div>
-<h3>SecuritySettings.json</span></h3>
+<h3>SecuritySettings.json</h3>
 <div>
 	This is the first file you'll need to copy/paste in order to get into the system.
 </div>
@@ -136,7 +136,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 	Here's a screenshot of what the Redis monitor home page looks like:
 	<br />
 	<a href="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s1600/blog_redis.png" alt="Opserver - Redis area">
-		<amp-img alt="Opserver - Redis area" height="92" src="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s400/blog_redis.png" width="400" />
+		<img alt="Opserver - Redis area" height="92" src="https://2.bp.blogspot.com/-vb_mZnUqkbg/Umr5EG_0qxI/AAAAAAAAAlU/NqRWLyaC9nk/s400/blog_redis.png" width="400" loading="lazy" decoding="async">
 	</a>
 </div>
 
@@ -189,7 +189,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 
 <div>
 	<a href="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s1600/blog_sql.png" alt="Opserver - SQL area">
-		<amp-img alt="Opserver - SQL area height="207" src="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s400/blog_sql.png" width="400" />
+		<img alt="Opserver - SQL area" height="207" src="https://1.bp.blogspot.com/-mCUf9nkdEyU/Umr9z6sg7GI/AAAAAAAAAlg/sK3xXOjIQ9c/s400/blog_sql.png" width="400" loading="lazy" decoding="async">
 	</a>
 </div>
 
@@ -204,7 +204,7 @@ Note, even if everyone is an admin, they will have to login initially using an e
 </div>
 <div>
 	<a href="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s1600/blog_sql2.png" alt="Opserver - SQL area, part 2">
-		<amp-img alt="Opserver - SQL area, part 2" height="288" src="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s400/blog_sql2.png" width="400" />
+		<img alt="Opserver - SQL area, part 2" height="288" src="https://4.bp.blogspot.com/-HDk9FmYdorM/Umr-cHnXn9I/AAAAAAAAAlo/XDLQbBdh7DI/s400/blog_sql2.png" width="400" loading="lazy" decoding="async">
 	</a>
 </div>
 

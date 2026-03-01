@@ -1,92 +1,466 @@
 
+// ─── Reset & Base ────────────────────────────────────────────────────────────
+
+*, *::before, *::after
+  box-sizing: border-box
+
 body
-	margin: 0
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
-	font-size: 14px
-	line-height: 1.42857143
-	color: #333
+  margin: 0
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif
+  font-size: 17px
+  line-height: 1.7
+  color: #1a1a1a
+  background: #ffffff
 
-.text-center
-	text-align: center
+// ─── Accessibility ───────────────────────────────────────────────────────────
 
-h1, .h1, h2, .h2, h3, .h3
-	margin-top: 20px
-	margin-bottom: 10px
+.skip-link
+  position: absolute
+  top: -48px
+  left: 1rem
+  padding: 0.5rem 1rem
+  background: #1a1a1a
+  color: #ffffff
+  border-radius: 0 0 4px 4px
+  text-decoration: none
+  font-size: 0.875rem
+  z-index: 9999
+  transition: top 0.1s
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6
-	font-family: inherit
-	font-weight: 500
-	line-height: 1.1
-	color: inherit
+.skip-link:focus
+  top: 0
+
+.sr-only
+  position: absolute
+  width: 1px
+  height: 1px
+  padding: 0
+  margin: -1px
+  overflow: hidden
+  clip: rect(0, 0, 0, 0)
+  white-space: nowrap
+  border: 0
+
+// ─── Typography ──────────────────────────────────────────────────────────────
+
+h1, h2, h3, h4, h5, h6
+  font-weight: 600
+  line-height: 1.3
+  margin-top: 1.8em
+  margin-bottom: 0.5em
+  color: #1a1a1a
+
+h1
+  font-size: 2rem
+
+h2
+  font-size: 1.5rem
+
+h3
+  font-size: 1.25rem
+
+h4
+  font-size: 1.1rem
 
 a
-	color: #6c6c6c
-	text-decoration: underline
+  color: #2563eb
+  text-decoration: underline
+  text-underline-offset: 3px
 
-header
-	.code
-		color: #777777
+a:hover
+  color: #1d4ed8
 
-	.games
-		color: #6C9
+a:focus-visible
+  outline: 2px solid #2563eb
+  outline-offset: 3px
+  border-radius: 2px
 
-	.love
-		color: #f08080
-
-	.travel
-		color: #6495ed
-
-	a
-		text-decoration: none
-
-	a:hover
-		text-decoration: none
-
-.mark
-	border-radius: 7px
+// ─── Layout ──────────────────────────────────────────────────────────────────
 
 .container
-	padding-right: 15px
-	padding-left: 15px
-	margin-right: auto
-	margin-left: auto
+  max-width: 1000px
+  margin: 0 auto
+  padding: 0 1.5rem
 
-@media (min-width: 768px)
-	.container
-		width: 750px
+// ─── Header / Nav ────────────────────────────────────────────────────────────
 
-@media (min-width: 992px)
-	.container
-		width: 970px
+.site-header
+  padding: 2.5rem 0 1rem
+  text-align: center
+  border-bottom: 1px solid #e5e7eb
 
-@media (min-width: 1200px)
-	.container
-		width: 1170px
+.site-header .container
+  position: relative
 
-.row 
-	margin-right: -15px
-	margin-left: -15px
+.site-header a
+  text-decoration: none
 
-.content
-	background-color: #EEEEEE
-	border-radius: 7px
-	padding: 1em
+// ─── Theme Toggle ───────────────────────────────────────────────────────────
 
-.mark
-	padding: .2em
-	background-color: #fcf8e3
+.theme-toggle
+  position: absolute
+  top: 0
+  right: 0
+  background: none
+  border: 1px solid transparent
+  border-radius: 6px
+  min-width: 44px
+  min-height: 44px
+  padding: 0.5rem
+  cursor: pointer
+  color: #4b5563
+  display: flex
+  align-items: center
+  justify-content: center
+  transition: color 0.15s, border-color 0.15s
 
-.lead
-	margin-bottom: 20px
-	font-size: 21px
-	font-weight: 300
-	line-height: 1.4
+.theme-toggle:hover
+  color: #1a1a1a
+  border-color: #e5e7eb
 
-hr 
-	margin-top: 20px
-	margin-bottom: 20px
-	border: 0
-	border-top: 1px solid #eee
+.theme-toggle:focus-visible
+  outline: 3px solid #2563eb
+  outline-offset: 2px
 
-footer
-	color: #444
+.theme-toggle svg
+  width: 1.25rem
+  height: 1.25rem
+
+.theme-icon
+  display: none
+
+[data-theme="light"] .theme-icon--light
+  display: block
+
+[data-theme="dark"] .theme-icon--dark
+  display: block
+
+[data-theme="system"] .theme-icon--system
+  display: block
+
+.header-icons
+  display: inline-flex
+  gap: 1.25rem
+  align-items: center
+
+.header-icons a:hover .icon-code,
+.header-icons a:hover .icon-travel,
+.header-icons a:hover .icon-games,
+.header-icons a:hover .icon-love
+  opacity: 0.7
+
+.header-icons svg
+  width: 2rem
+  height: 2rem
+  vertical-align: middle
+
+.icon-code
+  color: #6b7280
+
+.icon-travel
+  color: #3b82f6
+
+.icon-games
+  color: #22c55e
+
+.icon-love
+  color: #f87171
+
+// ─── Main Content ────────────────────────────────────────────────────────────
+
+main
+  padding: 2rem 0 3rem
+
+// ─── Post List (index) ───────────────────────────────────────────────────────
+
+.post-list
+  list-style: none
+  padding: 0
+  margin: 0
+
+.post-item
+  padding: 1.75rem 0
+  border-bottom: 1px solid #e5e7eb
+
+.post-item:last-child
+  border-bottom: none
+
+.post-date
+  font-size: 0.85rem
+  color: #4b5563
+  font-variant-numeric: tabular-nums
+  margin: 0 0 0.35rem
+
+.post-item .post-title
+  margin: 0 0 0.5rem
+
+.post-title-link
+  font-size: inherit
+  font-weight: 600
+  display: block
+  text-decoration: none
+  color: #1a1a1a
+  margin-bottom: 0
+
+.post-title-link:hover
+  color: #2563eb
+  text-decoration: underline
+  text-underline-offset: 3px
+
+.post-excerpt
+  color: #374151
+  margin: 0 0 0.75rem
+  font-size: 0.95rem
+
+.post-excerpt h2
+  font-size: 1.25rem
+
+.post-excerpt h3
+  font-size: 1.1rem
+
+.post-excerpt h4, .post-excerpt h5
+  font-size: 1rem
+
+.read-more
+  font-size: 0.875rem
+  font-weight: 500
+
+// ─── Post Article ────────────────────────────────────────────────────────────
+
+.post-header
+  margin-bottom: 2rem
+  padding-bottom: 1.25rem
+  border-bottom: 1px solid #e5e7eb
+
+.post-title
+  font-size: 2.2rem
+  margin: 2rem 0 0.5rem
+  line-height: 1.2
+
+.post-meta
+  color: #4b5563
+  font-size: 0.9rem
+  margin: 0
+
+.post-content
+  line-height: 1.8
+
+.post-content img
+  max-width: 100%
+  height: auto
+  border-radius: 4px
+  display: block
+  margin: 1.5rem auto
+
+.post-content picture
+  display: block
+  margin: 1.5rem auto
+
+.post-content pre
+  background: #1e293b
+  color: #e2e8f0
+  padding: 1.25rem 1.5rem
+  border-radius: 6px
+  overflow-x: auto
+  font-size: 0.9em
+  line-height: 1.6
+
+.post-content code
+  background: #f1f5f9
+  padding: 0.15em 0.4em
+  border-radius: 3px
+  font-size: 0.9em
+
+.post-content pre code
+  background: none
+  padding: 0
+
+.post-content blockquote
+  border-left: 4px solid #3b82f6
+  margin: 1.5em 0
+  padding: 0.5em 1.5em
+  color: #374151
+  font-style: italic
+
+.post-content blockquote p
+  margin: 0
+
+.post-content hr
+  border: 0
+  border-top: 1px solid #e5e7eb
+  margin: 2rem 0
+
+// ─── Post Navigation ─────────────────────────────────────────────────────────
+
+.post-nav
+  display: flex
+  justify-content: space-between
+  gap: 1.5rem
+  margin-top: 3rem
+  padding-top: 1.5rem
+  border-top: 1px solid #e5e7eb
+  font-size: 0.9rem
+
+.post-nav-prev
+  max-width: 48%
+
+.post-nav-next
+  max-width: 48%
+  margin-left: auto
+  text-align: right
+
+// ─── Footer ──────────────────────────────────────────────────────────────────
+
+.site-footer
+  text-align: center
+  padding: 1.5rem 0 2rem
+  color: #6b7280
+  font-size: 0.875rem
+  border-top: 1px solid #e5e7eb
+
+.social-links
+  display: flex
+  justify-content: center
+  align-items: center
+  gap: 1.25rem
+  margin-bottom: 0.875rem
+  padding: 0
+  list-style: none
+
+.social-links a
+  color: #4b5563
+  text-decoration: none
+  display: inline-flex
+  align-items: center
+
+.social-links a:hover
+  color: #1a1a1a
+
+.social-links svg
+  width: 1.5rem
+  height: 1.5rem
+
+.copyright
+  margin: 0
+  color: #4b5563
+
+// ─── Dark Mode ───────────────────────────────────────────────────────────────
+// Applied when user explicitly picks dark, OR when set to system and OS is dark
+
+=dark-mode
+  body
+    background: #0f172a
+    color: #e2e8f0
+
+  h1, h2, h3, h4, h5, h6
+    color: #f1f5f9
+
+  a
+    color: #60a5fa
+
+  a:hover
+    color: #93c5fd
+
+  a:focus-visible
+    outline-color: #60a5fa
+
+  .skip-link
+    background: #f1f5f9
+    color: #0f172a
+
+  .site-header
+    border-color: #1e293b
+
+  .theme-toggle
+    color: #b0bec5
+
+  .theme-toggle:hover
+    color: #f1f5f9
+    border-color: #334155
+
+  .post-item
+    border-color: #1e293b
+
+  .post-header
+    border-color: #1e293b
+
+  .post-nav
+    border-color: #1e293b
+
+  .site-footer
+    border-color: #1e293b
+
+  .post-title-link
+    color: #f1f5f9
+
+  .post-title-link:hover
+    color: #60a5fa
+
+  .post-excerpt
+    color: #b0bec5
+
+  .post-date
+    color: #b0bec5
+
+  .post-meta
+    color: #b0bec5
+
+  .copyright
+    color: #b0bec5
+
+  .post-content code
+    background: #1e293b
+    color: #e2e8f0
+
+  .post-content blockquote
+    border-color: #60a5fa
+    color: #b0bec5
+
+  .post-content hr
+    border-color: #1e293b
+
+  .social-links a
+    color: #b0bec5
+
+  .social-links a:hover
+    color: #f1f5f9
+
+  .icon-code
+    color: #b0bec5
+
+  .icon-travel
+    color: #60a5fa
+
+  .icon-games
+    color: #4ade80
+
+  .icon-love
+    color: #fca5a5
+
+[data-theme="dark"]
+  +dark-mode
+
+@media (prefers-color-scheme: dark)
+  [data-theme="system"]
+    +dark-mode
+
+// ─── Responsive ──────────────────────────────────────────────────────────────
+
+@media (max-width: 480px)
+  .post-title
+    font-size: 1.75rem
+
+  h1
+    font-size: 1.6rem
+
+  .post-nav
+    flex-direction: column
+    gap: 0.75rem
+
+  .post-nav-next
+    text-align: left
+    margin-left: 0
+    max-width: 100%
+
+  .post-nav-prev
+    max-width: 100%
