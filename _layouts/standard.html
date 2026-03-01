@@ -5,6 +5,9 @@ layout: "compress"
 <html lang="en">
   <head>
     {% include head.html %}
+    <script>
+      (function(){var t=localStorage.getItem('theme')||'system';document.documentElement.setAttribute('data-theme',t)})();
+    </script>
     <style>
       {% capture include_to_sassify %}
         {% include main.sass %}
