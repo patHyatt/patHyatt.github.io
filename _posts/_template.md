@@ -37,18 +37,7 @@ def hello():
 
 ## Images
 
-### Responsive images (recommended for new posts)
-
-Place your source image in `assets/img/YYYY/MM/DD/` then use the picture tag.
-Jekyll will automatically generate WebP + fallback at multiple sizes:
-
-```liquid
-{% picture assets/img/YYYY/MM/DD/my-image.jpg alt="Descriptive alt text" %}
-```
-
 ### Standard image with lazy loading
-
-For images already on an external host or when you want manual control:
 
 ```html
 <img

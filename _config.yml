@@ -15,7 +15,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-picture-tag
 
 sass:
   style: compressed
@@ -23,32 +22,6 @@ sass:
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-picture:
-  source: "assets/img"
-  output: "assets/img/generated"
-  suppress_warnings: false
-  presets:
-    default:
-      formats: [webp, original]
-      widths: [400, 800, 1200]
-      sizes:
-        "(max-width: 720px)": 100vw
-        default: 700px
-      attributes:
-        img:
-          loading: lazy
-          decoding: async
-    thumbnail:
-      formats: [webp, original]
-      widths: [300, 600]
-      sizes:
-        "(max-width: 400px)": 100vw
-        default: 300px
-      attributes:
-        img:
-          loading: lazy
-          decoding: async
 
 compress_html:
   clippings: []

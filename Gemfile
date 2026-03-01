@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.3'
-gem 'jekyll-picture-tag', '~> 2.0'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'

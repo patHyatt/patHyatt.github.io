@@ -64,15 +64,7 @@ Everything before `<!--excerpt-->` is shown on the home page. Put your hook ther
 2. Export your image at full resolution (JPG or PNG). Aim for under 2 MB before optimization.
 3. Run through an optimizer (e.g. [Squoosh](https://squoosh.app) or `imagemagick`) to reduce file size before committing.
 
-### Use the picture tag (recommended — auto WebP + responsive srcset)
-
-```liquid
-{% picture assets/img/2026/02/28/my-photo.jpg alt="Description of the photo" %}
-```
-
-Jekyll will generate WebP and original-format versions at 400px, 800px, and 1200px widths automatically on build.
-
-### Use a standard img tag (for external images or manual control)
+### Embed an image
 
 ```html
 <img
@@ -143,18 +135,3 @@ The live site updates within 1-2 minutes of the push.
 | Publish | `git push origin master` |
 | Check build | GitHub → Actions tab |
 
----
-
-## Image presets (jekyll-picture-tag)
-
-Configured in `_config.yml`:
-
-| Preset | Widths generated | Best for |
-|--------|-----------------|---------|
-| `default` | 400, 800, 1200px | Full-width images in post body |
-| `thumbnail` | 300, 600px | Smaller inline images |
-
-Use a preset explicitly:
-```liquid
-{% picture thumbnail assets/img/2026/02/28/small.jpg alt="Small image" %}
-```
